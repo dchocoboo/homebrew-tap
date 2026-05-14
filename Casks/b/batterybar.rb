@@ -7,7 +7,7 @@ cask "batterybar" do
   desc "Menu bar battery history monitor"
   homepage "https://github.com/dchocoboo/BatteryBar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "BatteryBar.app"
 end
