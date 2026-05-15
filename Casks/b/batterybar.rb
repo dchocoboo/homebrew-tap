@@ -1,6 +1,6 @@
 cask "batterybar" do
-  version "0.1.3"
-  sha256 "35b2430dc821ccdce02dd50609c483ffe7f860ab0d87b85a654d2d5d59e41055"
+  version "0.1.4"
+  sha256 "1a0e16091ac7ab2b7e6ba3ab065bdfa254ebdb787d027e23c5b0bdb6bccfac5f"
 
   url "https://github.com/dchocoboo/BatteryBar/releases/download/v#{version}/BatteryBar-#{version}.zip"
   name "BatteryBar"
